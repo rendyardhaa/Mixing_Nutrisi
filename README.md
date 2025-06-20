@@ -119,7 +119,7 @@ Setiap loop, sistem akan menyimpan:
 
 ## 👨‍💻 Kontributor
 
-Founder & Developer: [Nama Kamu]
+Founder & Developer: [Rendy Ardha ](https://github.com/rendyardhaa)
 
 Sistem ini dibangun untuk keperluan pertanian pintar dan automatisasi industri nutrisi hidroponik.
 
