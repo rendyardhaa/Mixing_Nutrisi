@@ -1,0 +1,6 @@
+pymodbus
+adafruit-circuitpython-ads1x15
+PyYAML
+pigpio
+board
+busio 
